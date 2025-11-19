@@ -22,3 +22,5 @@ See in the next image an example of material top navigation:
 **Drawer navigation**: teacher said that is an example of navigation that you can pull a menu from the side of the app.
 
 ![drwaer navigation](images/drawer.png)
+
+Teacher instructed us to not mix several types of navigations in an app to the app not to be confuse for the user.
