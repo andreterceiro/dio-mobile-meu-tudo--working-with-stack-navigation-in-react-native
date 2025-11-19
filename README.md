@@ -17,4 +17,4 @@ Teacher explained that is common a mobile app being more simple than a web app a
 
 See in the next image an example of material top navigation:
 
-![material top](material-top.png)
+![material top](images/material-top.png)
