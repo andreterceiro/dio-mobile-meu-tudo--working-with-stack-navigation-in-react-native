@@ -10,3 +10,5 @@ Teacher accessed in the home page of [reactnavigation.org](http://reactnavigatio
 See in the next image te example of "**Bottom Tabs**" navigation and his butons in the lower part of the app:
 
 ![bottom tabs](images/bottom-tabs.png)
+
+Teacher also talked that a very common navigation is "**Stack navigation**". In this navigations the pagas acts as elements of a stack of pages.
