@@ -14,3 +14,7 @@ See in the next image te example of "**Bottom Tabs**" navigation and his butons 
 Teacher also talked that a very common navigation is "**Stack navigation**". In this navigations the pagas acts as elements of a stack of pages.
 
 Teacher explained that is common a mobile app being more simple than a web app and to have mave less functionalities to be simpler.
+
+See in the next image an example of material top navigation:
+
+![material top](material-top.png)
