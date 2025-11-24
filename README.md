@@ -35,4 +35,6 @@ Teacher explained that a navigator is who select between screens using routes (a
 
 # Creating your first routing
 
-Teacher instructed us to create a file to each navigation strategy.
+Teacher instructed us to create a file to each navigation strategy:
+
+![file to routing strategy](images/file-to-routing-strategy.png)
