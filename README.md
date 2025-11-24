@@ -40,3 +40,5 @@ Teacher instructed us to create a file to each navigation strategy:
 ![file to routing strategy](images/file-to-routing-strategy.png)
 
 In the previous image pay attention to the file **routes/stack.routes.tsx**.
+
+Teacher said that the icons showed in the previous image in VSCode are provided by the extension material icons.
