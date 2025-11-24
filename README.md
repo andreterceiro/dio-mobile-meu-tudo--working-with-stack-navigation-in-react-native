@@ -42,3 +42,8 @@ Teacher instructed us to create a file to each navigation strategy:
 In the previous image pay attention to the file **routes/stack.routes.tsx**.
 
 Teacher said that the icons showed in the previous image in VSCode are provided by the extension material icons.
+
+
+# Installing the library to use stack navigation
+
+As you can see in [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--navigation-on-react-native), teacher  said that we already installed some dependencies. The React Navigator do not install all things in one way, you have to install an additional part.
