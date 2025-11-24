@@ -53,3 +53,9 @@ The command to install stack navigation is (as you can see [in the documentation
 ```
 npm install @react-navigation/stack
 ```
+
+I created a test project in tests\01 with the command:
+
+```
+expo init react-nav --npm
+```
