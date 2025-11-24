@@ -59,3 +59,5 @@ I created a test project in tests\01 with the command:
 ```
 expo init react-nav --npm
 ```
+
+After, I installed the stack navigation (`npm install @react-navigation/stack`)
