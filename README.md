@@ -24,3 +24,10 @@ See in the next image an example of material top navigation:
 ![drwaer navigation](images/drawer.png)
 
 Teacher instructed us to not mix several types of navigations in an app to the app not to be confuse for the user.
+
+
+# What is a navigator
+
+Teacher explained that a navigator is who select between screens using routes (arrows between navigator and the screens in the following image):
+
+![navigator and screens - illustration](images/navigator-and-screens--illustration.png)
