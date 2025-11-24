@@ -63,3 +63,23 @@ expo init react-nav --npm
 After, I installed the stack navigation (`npm install @react-navigation/stack`)
 
 Please see the test project. There I inserted the code of routes/stack.routes.tsx and also I copied the files HomeScren.tsx and GalleryScreen.tsx from [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--navigation-on-react-native/).
+
+Here I will put the code of **routes/stack.routes.tsx** from the test project, but please see the entire code of the test project in tests/01 directory:
+
+```typescript
+import {createStackNavigator} from  '@react-navigation/stack'
+
+const { Screen, Navigator } = createStackNavigator()
+
+import HomeScreen from '../src/screens/HomeScreen'
+import GalleryScreen from '../src/screens/GalleryScreen'
+
+export function StackRoutes() {
+    return (
+        <Navigator>
+            <Screen name='home' component={HomeScreen} />
+            <Screen name='gallery' component={GalleryScreen} />            
+        </Navigator>
+    )    
+}
+```
