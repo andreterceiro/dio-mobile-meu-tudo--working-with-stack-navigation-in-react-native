@@ -31,3 +31,8 @@ Teacher instructed us to not mix several types of navigations in an app to the a
 Teacher explained that a navigator is who select between screens using routes (arrows between navigator and the screens in the following image):
 
 ![navigator and screens - illustration](images/navigator-and-screens--illustration.png)
+
+
+# Creating your first routing
+
+Teacher instructed us to create a file to each navigation strategy.
