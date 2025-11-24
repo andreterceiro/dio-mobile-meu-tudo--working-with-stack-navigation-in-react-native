@@ -38,3 +38,5 @@ Teacher explained that a navigator is who select between screens using routes (a
 Teacher instructed us to create a file to each navigation strategy:
 
 ![file to routing strategy](images/file-to-routing-strategy.png)
+
+In the previous image pay attention to the file **routes/stack.routes.tsx**.
