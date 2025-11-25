@@ -112,3 +112,9 @@ import { NavigationContainer } from '@react-navigation/native'
 ```
 
 NavigationContainer in this line will create a container of navigators.
+
+The second line is:
+
+```typescript
+import { StackRoutes } from "./stack.routes"
+```
