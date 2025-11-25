@@ -60,7 +60,7 @@ I created a test project in tests\01 with the command:
 expo init react-nav --npm
 ```
 
-After, I installed the stack navigation (`npm install @react-navigation/stack`)
+After, I installed the stack navigation (`npm install @react-navigation/stack`).
 
 Please see the test project. There I inserted the code of routes/stack.routes.tsx and also I copied the files HomeScren.tsx and GalleryScreen.tsx from [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--navigation-on-react-native/).
 
