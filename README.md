@@ -110,3 +110,5 @@ Now we developed the file **routes/index.tsx**. The first line of this file is:
 ```typescript
 import { NavigationContainer } from '@react-navigation/native'
 ```
+
+NavigationContainer in this line will create a container of navigators.
