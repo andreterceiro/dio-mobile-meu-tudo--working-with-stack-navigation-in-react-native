@@ -130,3 +130,7 @@ export function Routes {
     </NavigationContainer>
 }
 ```
+
+The entire file is:
+
+![rsc/routes/index.tsx](images/src-routes-index-tsx.png)
