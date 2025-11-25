@@ -83,3 +83,10 @@ export function StackRoutes() {
     )    
 }
 ```
+
+
+# Context
+
+Teacher complemented his explanation with this image:
+
+![diagram with context](images/diagram-with-context.png)
