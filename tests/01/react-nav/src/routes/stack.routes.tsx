@@ -2,8 +2,8 @@ import {createStackNavigator} from  '@react-navigation/stack'
 
 const { Screen, Navigator } = createStackNavigator()
 
-import HomeScreen from '../src/screens/HomeScreen'
-import GalleryScreen from '../src/screens/GalleryScreen'
+import HomeScreen from '../screens/HomeScreen'
+import GalleryScreen from '../screens/GalleryScreen'
 
 export function StackRoutes() {
     return (
