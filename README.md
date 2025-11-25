@@ -7,7 +7,7 @@ Teacher accessed in the home page of [reactnavigation.org](http://reactnavigatio
 
 # Different types of navigations
 
-See in the next image te example of "**Bottom Tabs**" navigation and his butons in the lower part of the app:
+See in the next image the example of "**Bottom Tabs**" navigation and his butons in the lower part of the app:
 
 ![bottom tabs](images/bottom-tabs.png)
 
