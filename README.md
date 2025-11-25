@@ -97,3 +97,8 @@ What is the container in the image? Teacher explained that we can think that the
 # Random comment
 
 Ia a class teacher instructed us to move the routes file to the src directory.
+
+
+# Context again
+
+Teacher said that now we will do the little box that will expose all of our routes contexts to our application, a configuration file.
