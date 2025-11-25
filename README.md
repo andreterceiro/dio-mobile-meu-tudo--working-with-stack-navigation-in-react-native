@@ -120,3 +120,13 @@ import { StackRoutes } from "./stack.routes"
 ```
 
 **StackRoutes** in this line is the route context.
+
+Now teacher exported this function:
+
+```typescript
+export function Routes {
+    <NavigationContainer>
+        <StackRoutes />
+    </NavigationContainer>
+}
+```
