@@ -104,3 +104,9 @@ Ia a class teacher instructed us to move the routes file to the src directory.
 Teacher said that now we will do the little box that will expose all of our routes contexts to our application, a configuration file.
 
 Teacher resumed route context as a type of navigation and routes a user profile can access (using other words).
+
+Now we developed the file **routes/index.tsx**. The first line of this file is:
+
+```typescript
+import { NavigationContainer } from '@react-navigation/native'
+```
