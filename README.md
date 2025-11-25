@@ -92,3 +92,8 @@ Teacher complemented his explanation with this image:
 ![diagram with context](images/diagram-with-context.png)
 
 What is the container in the image? Teacher explained that we can think that the container is like a box with all the possible navigators. Because the app can have all the possible navigation contexts. As example 1 context for a logged user, 1 context for a non logged user. 1 navigator for each context.
+
+
+# Random comment
+
+Ia a class teacher instructed us to move the routes file to the src directory.
