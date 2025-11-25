@@ -96,7 +96,7 @@ What is the container in the image? Teacher explained that we can think that the
 
 # Random comment
 
-Ia a class teacher instructed us to move the routes file to the src directory.
+In a class teacher instructed us to move the routes file to the src directory.
 
 
 # Context again
