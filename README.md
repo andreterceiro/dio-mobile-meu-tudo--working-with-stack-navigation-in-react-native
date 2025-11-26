@@ -134,3 +134,8 @@ export function Routes {
 The entire file is:
 
 ![rsc/routes/index.tsx](images/src-routes-index-tsx.png)
+
+
+# Comments of the teacher
+
+- We have a container with several navigators
