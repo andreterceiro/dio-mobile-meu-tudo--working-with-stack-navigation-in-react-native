@@ -140,3 +140,4 @@ The entire file is:
 
 - We have a container with several navigators;
 - Each navigator have a context, like users.stack.routes, admin.stack.routes;
+- We need to put the container inside our app.
