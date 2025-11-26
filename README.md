@@ -143,4 +143,6 @@ The entire file is:
 - We need to put the container inside our app;
 - The exported function **StackRoutes** of the file **stack.routes.tsx** is the route context.
 
-In **stack.routes.tsx** as you could see we have several screens inside a **<Navigator>** tag.
+In **stack.routes.tsx** as you could see we have several screens inside a **<Navigator>** tag:
+
+![stack.routes.tsx](images/stack-routes-tsx.png)
