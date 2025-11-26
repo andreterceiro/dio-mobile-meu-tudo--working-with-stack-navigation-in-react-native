@@ -141,4 +141,6 @@ The entire file is:
 - We have a container with several navigators;
 - Each navigator have a context, like users.stack.routes, admin.stack.routes;
 - We need to put the container inside our app;
-- The exported function StackRoutes of the file stack.routes.tsx is the route context.
+- The exported function **StackRoutes** of the file **stack.routes.tsx** is the route context.
+
+In **stack.routes.tsx** as you could see we have several screens inside a **<Navigator>** tag.
