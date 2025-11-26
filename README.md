@@ -146,3 +146,10 @@ The entire file is:
 In **stack.routes.tsx** as you could see we have several screens inside a **<Navigator>** tag:
 
 ![stack.routes.tsx](images/stack-routes-tsx.png)
+
+
+# Personalizing informations related to the screen navigation
+
+You can use the property with double curly braces:
+
+![options](images/options.png)
