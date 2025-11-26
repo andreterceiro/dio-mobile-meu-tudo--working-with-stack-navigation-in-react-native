@@ -7,7 +7,7 @@ Teacher accessed in the home page of [reactnavigation.org](http://reactnavigatio
 
 # Different types of navigations
 
-See in the next image te example of "**Bottom Tabs**" navigation and his butons in the lower part of the app:
+See in the next image the example of "**Bottom Tabs**" navigation and his butons in the lower part of the app:
 
 ![bottom tabs](images/bottom-tabs.png)
 
@@ -60,7 +60,7 @@ I created a test project in tests\01 with the command:
 expo init react-nav --npm
 ```
 
-After, I installed the stack navigation (`npm install @react-navigation/stack`)
+After, I installed the stack navigation (`npm install @react-navigation/stack`).
 
 Please see the test project. There I inserted the code of routes/stack.routes.tsx and also I copied the files HomeScren.tsx and GalleryScreen.tsx from [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--navigation-on-react-native/).
 
@@ -96,7 +96,7 @@ What is the container in the image? Teacher explained that we can think that the
 
 # Random comment
 
-Ia a class teacher instructed us to move the routes file to the src directory.
+In a class teacher instructed us to move the routes file to the src directory.
 
 
 # Context again
@@ -139,3 +139,5 @@ The entire file is:
 # Comments of the teacher
 
 - We have a container with several navigators
+
+
